@@ -1,2 +1,6 @@
-# GRE_Prep
-Built a responsive, cross-browser compatible web application enabling the students to prepare for their GRE exams by providing them exams analogous to the GRE final exam, small quizzes and question banks based on topics. Further the application even allowed the students to shortlist colleges based on their GRE score.
+- Developed a fully responsive, cross-browser compatible web application to support GRE exam preparation.
+- Provided full-length practice exams that closely replicated the actual GRE for realistic test experiences.
+- Integrated smaller, topic-specific quizzes and an extensive question bank for targeted practice.
+- Implemented a feature that allowed students to input their GRE scores and generate a customized shortlist of potential colleges.
+- Utilized **TypeScript** and **JavaScript** for client-side development to ensure robust functionality.
+- Designed with **HTML** and **CSS** to create an interactive, user-friendly interface.
